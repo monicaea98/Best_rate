@@ -21,7 +21,3 @@ This analysis helps transform complex datasets into **meaningful visual insights
 - 📊 **Pandas** — for data processing and analysis  
 - 📈 **Matplotlib / Seaborn / Plotly** — for visualizations  
 - 📘 **Jupyter Notebook** — for exploration and documentation  
-
----
-
-## 📂 Project Structure  
